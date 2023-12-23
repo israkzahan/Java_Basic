@@ -10,6 +10,7 @@ public class ObjectExample {
         this.age=age;
     }
     public  void display(){
+
         System.out.println("Hello, my name is:"+name+" and my age is : "+age);
     }
     public static void main(String[] args){
