@@ -23,5 +23,6 @@ public class ParameterizedMethod {
         System.out.println("*********parameterized method using return type method*********");
         System.out.println(parameterizedMethod.addValue(500,300));
         System.out.println(parameterizedMethod.addValue(800,300));
+        //s
     }
 }
