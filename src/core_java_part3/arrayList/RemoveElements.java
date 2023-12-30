@@ -1,4 +1,4 @@
-package core_java_part3.arrayDemo;
+package core_java_part3.arrayList;
 
 import java.util.ArrayList;
 

@@ -13,7 +13,7 @@ public class AssignmentOperators {
         System.out.println("The value of the number is : " +number);
 
         //assign value using *=
-        number*= firstNumber; //number=numner+firstnumber
+        number*= firstNumber; //number=numner*firstnumber
         System.out.println("The value of the number is : " +number);
     }
 }
