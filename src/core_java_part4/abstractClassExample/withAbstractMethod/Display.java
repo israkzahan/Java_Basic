@@ -5,5 +5,7 @@ public class Display {
         Dog dog = new Dog();
         dog.bodyColor();
         dog.eat();
+        Cat cat = new Cat();
+        cat.bodyColor();
     }
 }
